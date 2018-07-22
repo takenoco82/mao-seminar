@@ -51,6 +51,7 @@ header nav {
 	width: 100%;
 	position: absolute;
 	top:0;
+	font-size: 2em;
 }
 header nav ul{
 	margin: auto;
